@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Famous Tourist Places</title>
+
+    <style>
+
+        /* Global styles */
+
+        body {
+
+            font-family: 'Arial', sans-serif;
+
+            margin: 0;
+
+            padding: 0;
+
+            background-color: #f9f9f9;
+
+            color: #333;
+
+        }
+
+        header {
+
+            background-color: #2a3d65;
+
+            color: white;
+
+            text-align: center;
+
+            padding: 20px 0;
+
+        }
+
+        h1 {
+
+            font-size: 36px;
+
+            margin: 0;
+
+        }
+
+        .content {
+
+            padding: 30px;
+
+            max-width: 1000px;
+
+            margin: 0 auto;
+
+            background-color: white;
+
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+            border-radius: 10px;
+
+        }
+
+        /* Section styles */
+
+        .tourist-place {
+
+            margin-bottom: 40px;
+
+            padding: 20px;
+
+            background-color: #f1f1f1;
+
+            border-radius: 10px;
+
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+        }
+
+        .tourist-place h2 {
+
+            color: #2a3d65;
+
+            font-size: 28px;
+
+            margin-bottom: 10px;
+
+        }
+
+        .tourist-place p {
+
+            font-size: 16px;
+
+            color: #666;
+
+            line-height: 1.6;
+
+        }
+
+        .tourist-place img {
+
+            width: 100%;
+
+            height: auto;
+
+            border-radius: 8px;
+
+            margin-top: 20px;
+
+        }
+
+        .tourist-place:hover {
+
+            background-color: #eaeaea;
+
+            transform: scale(1.02);
+
+            transition: all 0.3s ease;
+
+        }
+
+        footer {
+
+            background-color: #2a3d65;
+
+            color: white;
+
+            text-align: center;
+
+            padding: 15px 0;
+
+            position: relative;
+
+            bottom: 0;
+
+            width: 100%;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<header>
+
+    <h1>Famous Tourist Places</h1>
+
+</header>
+
+<div class="content">
+
+
+    <div class="tourist-place" id="alleppey-backwaters">
+
+        <h2>Alleppey Backwaters</h2>
+
+        <p>Famous for its serene backwaters and houseboat cruises.</p>
+
+        <p>Enjoy a relaxing houseboat ride through the picturesque backwaters of Kerala.</p>
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMVNCBP3Ifw63QKoV5Tba-e1vegDrY43mZQ&s" alt="Alleppey">
+       
+       
+        <p>The Alleppey Backwaters represent a theoretical intersection of ecology, culture, and economy. The unique ecosystem supports diverse species and local agriculture, while influencing cultural traditions like fishing, boat races, and houseboats. Economically, the backwaters serve as a hub for fishing, agriculture, and tourism. However, tourism raises concerns about sustainability, balancing environmental conservation with economic growth. Symbolically, the backwaters reflect the interplay between tradition and modernity, illustrating the connection between nature and human life.</p>
+       
+        <h3>REVIEWS</h3>
+        <P>Ankith : </P>
+       
+        <p> The Alleppey Backwaters are absolutely peaceful and beautiful. The boat ride through the narrow canals, surrounded by lush greenery, was an unforgettable experience. It felt like stepping into another world.</p>
+        <p>Manju :</p>
+        <p>The backwaters are a highlight of Kerala. The calm waters, traditional houseboats, and beautiful landscape make it a must-visit. It’s perfect for those looking to relax and connect with nature.</p>
+    </div>
+
+    <div class="tourist-place" id="munnar">
+
+        <h2>Munnar</h2>
+
+        <p>A hill station known for its tea plantations and scenic views.</p>
+
+        <!-- Add image for Udaipur -->
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfW-63De3fdBu9EYcxnB8QqqNqMB2R_AurkQ&s" alt="Munnar">
+        <p>Munnar, in Kerala’s Western Ghats, represents the intersection of nature, culture, and economy. Its tea plantations reflect a colonial legacy and the balance between conservation and exploitation. Munnar blends traditional agriculture with growing tourism, highlighting tensions between preserving heritage and economic development. It symbolizes the challenge of maintaining ecological integrity while embracing progress.</p
+        <h3> REVIEWS :</h3>
+        <P>Jaydev :</P>
+        <p>Munnar is absolutely breathtaking! The tea plantations are lush and endless, and the views from the hills are serene. It’s the perfect place to relax and enjoy nature’s beauty.</p>
+     
+        <p>Nisha :</p>
+        <p> Munnar is absolutely breathtaking! The tea plantations are lush and endless, and the views from the hills are serene. It’s the perfect place to relax and enjoy nature’s beauty.</p>
+   
+   
+    </div>
+
+</div>
+
+<footer>
+
+    <p>&copy; 2024 Famous Tourist Places. All rights reserved.</p>
+
+</footer>
+
+</body>
+
+</html>
